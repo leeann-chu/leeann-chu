@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @leeann-chu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C
-- 📫 How to reach me lchu7@u.rochester.edu
+This github is mainly to host my clipboardbot for python. Check out that repo for more details!
