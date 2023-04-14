@@ -5,7 +5,7 @@
 <br />
 
 ### Personal Projects
-* [Clipboard/Voting bot](https://github.com/leeann-chu/clipboard-bot) | Discord bot with lots of odds and ends. 
+* [Clipboard/Voting bot](https://github.com/leeann-chu/clipboard-bot) | Discord bot with lots of odds and ends. Essentially my child of 0s and 1s
 
   📋 __Clipboard__
     - allows people to save text to a notes list (database is made in postgresql) 
