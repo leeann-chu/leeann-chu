@@ -1,8 +1,11 @@
 # <p align="center">leeann-chu</p>
-* 😄 | **LeeAnn** (`she/her`)
-* 💻  | 🐍 Python, 🌸 CSS, ☕ Java
+<p align="center">
+  😄 | LeeAnn (<code>she/her</code>)
+• 💻 | 🐍 Python, 🌸 CSS, ☕ Java
+• ❤️ | 😺 & 📚 & 🍫
+  </p>
 
-<br />
+## 
 
 ### Personal Projects
 * [Clipboard/Voting bot](https://github.com/leeann-chu/clipboard-bot) | Discord bot with lots of odds and ends. Essentially my child of 0s and 1s
