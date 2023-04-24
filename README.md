@@ -18,6 +18,6 @@
 
 * 🎮 [Adventure-like](https://github.com/leeann-chu/adventure-like) | WIP. Will eventually become a [*Colossal Cave Adventure*](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) inspired terminal-only game. Created with friends from home
 
-* <img src="https://github.com/RayNieport/mconBot/blob/main/images/mcon.png?raw=true" align="center" width="25"> [PFAA Automaton](https://github.com/leeann-chu/pfa-automaton) | Connects your minecraft server with our discord server using [mconBot](https://github.com/RayNieport/mconBot).
+* <img src="https://github.com/RayNieport/mconBot/blob/main/images/mcon.png?raw=true" align="center" width="25"> [PFAA Automaton](https://github.com/leeann-chu/pfa-automaton) | Connects your minecraft server with your discord server using [mconBot](https://github.com/RayNieport/mconBot).
   - Messages sent in discord → mc server, and chat in mc server → discord 
   - Can stop and start the server from discord
