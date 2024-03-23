@@ -4,10 +4,11 @@
 • 💻 | 🐍 Python, 🌸 CSS, ☕ Java
 • ❤️ | 😺 & 📚 & 🍫
 </p>
-  
+
 ## 🔗 Links  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leeann-chu/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leeann-chu) [![discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/364536918362554368)
-## 
+
+<br>
 
 ## ⚒️ Personal Projects
 📋 [Clipboard/Voting bot](https://github.com/leeann-chu/clipboard-bot) | Discord bot with lots of odds and ends. Essentially my child of 0s and 1s
