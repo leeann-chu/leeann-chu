@@ -16,7 +16,7 @@
   - ✍️ __Clipboard__
     - allows people to save text to a notes list (database is made in postgresql) 
     
-  - 📥 __Voting__
+  - 🗳 __Voting__
     - vote anonymously, automatically counts votes and displays winner
 
 🎮 [Adventure-like](https://github.com/leeann-chu/adventure-like) | WIP. Will eventually become a [*Colossal Cave Adventure*](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) inspired terminal-only game. Created with friends from home
