@@ -24,3 +24,7 @@
 <img src="https://github.com/RayNieport/mconBot/blob/main/images/mcon.png?raw=true" align="center" width="25"> [PFAA Automaton](https://github.com/leeann-chu/pfa-automaton) | Connects your minecraft server with your discord server using [mconBot](https://github.com/RayNieport/mconBot).
   - Messages sent in discord → mc server, and chat in mc server → discord 
   - Can stop and start the server from discord
+
+🧠 [Pi Memorizer](https://github.com/leeann-chu/pi-memorizer) | A little tool for practicing π from memory — type what you remember, it catches the digit you forgot, and builds your skills by sets of 4.
+  - Built and hosted on replit
+  - Try it out [here](https://pi-memorizer--leeannchu.replit.app)!
